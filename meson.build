@@ -1,7 +1,7 @@
 project('babameca', 'c',
   default_options: [
     # 'b_sanitize=address,undefined',
-    'buildtype=release',
+    'buildtype=debug',
     'warning_level=3',
     'werror=true',
   ],
